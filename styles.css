@@ -1,3 +1,19 @@
 body {
-    background: linear-gradient(to right, red, yellow);
+    background: linear-gradient(to right, lightblue, violet);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+#currency {
+    border: 2px solid white;
+    padding: 10px;
+    margin-top: 20px;
+    color: white;
 }
