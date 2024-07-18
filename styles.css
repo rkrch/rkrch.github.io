@@ -24,7 +24,7 @@ p {
 }
 
 #top {
-    height: 33.3%; /* верхняя треть */
+    height: 45%; /* верхняя треть */
     background: linear-gradient(#000628, #1b1e49); /* градиент */
 }
 
