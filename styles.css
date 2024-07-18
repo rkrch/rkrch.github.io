@@ -36,4 +36,14 @@ p, em {
     background: linear-gradient(#000628, #1b1e49); /* градиент */
 }
 
-
+#special {
+	display: inline-block;
+	width: 124px;
+	margin: -4px 8px 4px;	padding: 11px 0;
+	user-select: none;
+	transition: 200ms;
+	font-weight: 700;
+	background-color: transparent;
+	border: 2px solid #fff9;	border-radius: 4px;
+	box-shadow: 0 0 0 0 #fff0;
+}
