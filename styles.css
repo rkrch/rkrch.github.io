@@ -17,10 +17,10 @@ p {
 }
 
 #currency {
-    border: 2px solid white;
+    border: 5px solid white;
     padding: 10px;
     margin-top: 20px;
-    color: white;
+    color: black;
 }
 
 #top {
