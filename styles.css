@@ -33,9 +33,14 @@ p, em {
 }
 
 #top {
-    height: 45%; /* верхняя треть */
-    background: linear-gradient(#000628, #1b1e49); /* градиент */
+  display: block;
+  height: 440px;
+  background: linear-gradient(#000628, #1b1e49);
+  color: #fff;
+  text-align: center;
 }
+
+
 
 #special {
 	display: inline-block;
@@ -47,4 +52,31 @@ p, em {
 	background-color: transparent;
 	border: 2px solid #fff9;	border-radius: 4px;
 	box-shadow: 0 0 0 0 #fff0;
+}
+
+
+
+
+
+
+
+
+
+#rndColorsBtn, #swapColorsBtn, #colorBPick1, #colorBPick2 {
+	appearance: none;
+	position: absolute;
+	width: 32px;	height: 32px;
+	margin: 4px;	padding-top: 4px;
+	background: #fff0;
+	border: 2px solid #fff0;	border-radius: 4px;
+	transition: 200ms;
+}
+#rndColorsBtn:hover, #swapColorsBtn:hover, #colorBPick1:hover, #colorBPick2:hover {
+	opacity: 1 !important;
+	background: #fff3;
+	border: 2px solid #fff0;
+}
+#rndColorsBtn:hover:active, #swapColorsBtn:hover:active, #colorBPick1:hover:active, #colorBPick2:hover:active {
+	background: #fff6;
+	border: 2px solid #fff3;
 }
