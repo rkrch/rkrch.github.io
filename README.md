@@ -15,4 +15,4 @@
 <b>Все [ДАННЫЕ УДАЛЕНЫ] подлежат ▓▓▓▓▓▓▓▓▓▓.</b>
 
 
-<p align=center><a href="https://1280px.github.io/hueblocks"><img src="https://github.com/rkrch/rkrch.github.io/blob/main/obed_yutnenko_022.png"></a><br>
+<p align=center><a href="https://1280px.github.io/hueblocks"><img src="https://github.com/rkrch/rkrch.github.io/blob/main/images/obed_yutnenko_002.png"></a><br>
