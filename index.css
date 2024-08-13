@@ -1,4 +1,10 @@
- .u-section-1 {
+.myimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.u-section-1 {
   background-image: linear-gradient(#cacaca, #a3a3a3);
 }
 
